@@ -1,4 +1,10 @@
 Perpetuate::Application.routes.draw do
+  get "pages/mail"
+
+  get "pages/home"
+
+  root :to => "pages#mail"  
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

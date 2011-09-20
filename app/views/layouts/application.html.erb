@@ -1,14 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Perpetuate</title>
-  <%= stylesheet_link_tag :all %>
-  <%= javascript_include_tag :defaults %>
-  <%= csrf_meta_tag %>
+<meta charset="UTF-8">
+<title><%= title %></title>
+    <%= render 'layouts/stylesheets' %>
+    <%= javascript_include_tag :defaults %>
+    <%= csrf_meta_tag %>
+    
 </head>
-<body>
 
-<%= yield %>
+<body id="index" class="home">
+    <%= render 'layouts/header' %>
+
+	
+	<section id="content" class="body">
+	
+		<%= yield %>
+	
+	</section><!-- /#content -->
+	
+    <%= render 'layouts/footer' %>	
+
 
 </body>
 </html>
