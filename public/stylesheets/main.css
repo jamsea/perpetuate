@@ -209,6 +209,7 @@ Header
 	Footer
 *****************/
 #contentinfo {padding-bottom: 2em; text-align: center;}
+#contentinfo a:hover {text-decoration: none; text-shadow: none;}
 
 
 /* Blog */
