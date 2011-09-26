@@ -174,7 +174,7 @@ Header
 	overflow: hidden;
 	padding: 20px 20px;
 	width: 760px;
-
+	color: #000000;
 	border-radius: 10px;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
@@ -208,7 +208,8 @@ Header
 /*
 	Footer
 *****************/
-#contentinfo {padding-bottom: 2em; text-align: right;}
+#contentinfo {padding-bottom: 2em; text-align: center;}
+#contentinfo a:hover {text-decoration: none; text-shadow: none;}
 
 
 /* Blog */

@@ -46,10 +46,10 @@ a:link, a:visited {
 	text-decoration: underline;
 }
 a:hover, a:active {
-	background-color: #C74350;
+	
 	color: #fff;
 	text-decoration: none;
-	text-shadow: 1px 1px 1px #333;
+
 }
 
 /* Paragraphs */
@@ -229,6 +229,9 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 	.hentry footer {margin-bottom: 2em;}
 	.hentry footer address {display: inline;}
 	#posts-list footer address {display: block;}
+	
+	/*Footer images*/
+	a:hover img {width: 49px; height: 49px; padding: 0;}
 
 	/* Blog Index */
 	#posts-list {list-style: none; margin: 0;}
