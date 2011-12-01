@@ -1,13 +1,22 @@
-<img style="visibility:hidden;width:0px;height:0px;" border=0 width=0 height=0 src="http://c.gigcount.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEzMTY*NjU3NDg1MzMmcHQ9MTMxNjQ2NTc2MDY1NSZwPTI3MDgxJmQ9cHJvX2Zhbl9leGNsdXNpdmVfZmlyc3RfZ2Vu/Jmc9MSZvPTk*YWZkM2E3NmM4MjQ5MWFhZGYwNWVkMTc*MGUxZDhlJm9mPTA=.gif" />
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="434" height="326">
-<param name="movie" value="http://cache.reverbnation.com/widgets/swf/48/pro_widget.swf?id=artist_884155&posted_by=artist_884155&skin_id=PWFS5010&background_color=EEEEEE&border_color=000000&auto_play=false&shuffle=false"></param>
-<param name="allowscriptaccess" value="always"></param>
-<param name="allowNetworking" value="all"></param>
-<param name="allowfullscreen" value="true"></param>
-<param name="wmode" value="opaque"></param>
-<param name="quality" value="best"></param>
-<embed src="http://cache.reverbnation.com/widgets/swf/48/pro_widget.swf?id=artist_884155&posted_by=artist_884155&skin_id=PWFS5010&background_color=EEEEEE&border_color=000000&auto_play=false&shuffle=false" type="application/x-shockwave-flash" allowscriptaccess="always" allowNetworking="all" allowfullscreen="true" wmode="opaque" quality="best" width="434" height="326"></embed>
-</object>
-<br/>
-<img style="visibility:hidden;width:0px;height:0px;" border=0 width=0 height=0 src="http://www.reverbnation.com/widgets/trk/48/artist_884155/artist_884155/t.gif" />
-<img src="http://b.scorecardresearch.com/p?c1=2&c2=10349858&cv=2.0&cj=1" style="display: none" border="0" height="1" width="1" alt="ComScore"/>
+<style type="text/css">
+#center {
+	text-align: center;
+}
+</style>
+
+
+<div id="center">
+	<img style="visibility:hidden;width:0px;height:0px;" border=0 width=0 height=0 src="http://c.gigcount.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEzMTY*NjU3NDg1MzMmcHQ9MTMxNjQ2NTc2MDY1NSZwPTI3MDgxJmQ9cHJvX2Zhbl9leGNsdXNpdmVfZmlyc3RfZ2Vu/Jmc9MSZvPTk*YWZkM2E3NmM4MjQ5MWFhZGYwNWVkMTc*MGUxZDhlJm9mPTA=.gif" />
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="434" height="326">
+	<param name="movie" value="http://cache.reverbnation.com/widgets/swf/48/pro_widget.swf?id=artist_884155&posted_by=artist_884155&skin_id=PWFS5010&background_color=EEEEEE&border_color=000000&auto_play=false&shuffle=false"></param>
+	<param name="allowscriptaccess" value="always"></param>
+	<param name="allowNetworking" value="all"></param>
+	<param name="allowfullscreen" value="true"></param>
+	<param name="wmode" value="opaque"></param>
+	<param name="quality" value="best"></param>
+	<embed src="http://cache.reverbnation.com/widgets/swf/48/pro_widget.swf?id=artist_884155&posted_by=artist_884155&skin_id=PWFS5010&background_color=EEEEEE&border_color=000000&auto_play=false&shuffle=false" type="application/x-shockwave-flash" allowscriptaccess="always" allowNetworking="all" allowfullscreen="true" wmode="opaque" quality="best" width="434" height="326"></embed>
+	</object>
+	<br/>
+	<img style="visibility:hidden;width:0px;height:0px;" border=0 width=0 height=0 src="http://www.reverbnation.com/widgets/trk/48/artist_884155/artist_884155/t.gif" />
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=10349858&cv=2.0&cj=1" style="display: none" border="0" height="1" width="1" alt="ComScore"/>
+</div>
