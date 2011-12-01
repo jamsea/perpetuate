@@ -5,6 +5,7 @@
 			<ul>
 					<li><%= link_to "Home", home_path %></li>
 					<li><%= link_to "Mailing List", root_path %></li>
+					<li><%= link_to "Store", "http://perpetuate.bigcartel.com/" %></li>
 			</ul>
 		</nav>
 	</header>
