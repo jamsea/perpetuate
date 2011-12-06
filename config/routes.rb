@@ -1,4 +1,6 @@
 Perpetuate::Application.routes.draw do
+  get "test/index"
+
   get "pages/mail"
 
   get "pages/home"
